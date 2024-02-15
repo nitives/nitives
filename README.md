@@ -4,7 +4,7 @@
 
 <h3 align="center">connect with me:</h3>
 <p align="center">
-<a href="https://codepen.io/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nitves" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="nitves" height="30" width="40" /></a>
 <a href="https://twitter.com/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitves" height="30" width="40" /></a>
 <a href="https://instagram.com/herknives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herknives" height="30" width="40" /></a>
 <a href="https://dribbble.com/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nitves" height="30" width="40" /></a>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-	<a href="https://terrytangyuan.github.io/cv.html"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+	<a href="https://codepen.io/nitves"><img src="imgs/cv.svg" alt="CodePen"></a>
 	<a href="https://twitter.com/TerryTangYuan"><img src="imgs/twitter.svg" alt="Twitter"></a>
 	<a href="https://github.com/terrytangyuan"><img src="imgs/github.svg" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/terrytangyuan"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
