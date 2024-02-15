@@ -8,7 +8,7 @@
 <a href="https://twitter.com/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nitves" height="30" width="40" /></a>
 <a href="https://instagram.com/herknives" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="herknives" height="30" width="40" /></a>
 <a href="https://dribbble.com/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="nitves" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@saber_?si=_YFdZ1-kuJeFFQH7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saber_" height="30" width="40" /></a>
+<a href="https://youtube.com/@saber_?si=_YFdZ1-kuJeFFQH7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@saber_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nitves" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nitves" height="30" width="40" /></a>
 </p>
 
