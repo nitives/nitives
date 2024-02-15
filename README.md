@@ -1,4 +1,4 @@
-<h3 align="center">A begginer frontend developer from florida</h3>
+<h3 align="center">A beginner frontend developer from florida</h3>
 
 <p align="left"> <a href="https://twitter.com/nitves" target="blank"><img src="https://img.shields.io/twitter/follow/nitves?logo=twitter&style=for-the-badge" alt="nitves" /></a> </p>
 
