@@ -1,3 +1,1 @@
-              - name: Metrics embed
-                uses: lowlighter/metrics@v3.34
-            
+![Metrics](/github-metrics.svg)
